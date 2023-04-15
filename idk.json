@@ -1,0 +1,111 @@
+{
+
+  "name": "Blue Lavander",
+
+  "description": "A theme based on Blue",
+
+  "authors": [
+
+    {
+
+      "name": "Cashew",
+
+      "id": "1095772586077597909"
+
+    }
+
+  ],
+
+  "semanticColors": {
+
+    "HEADER_PRIMARY": ["#E7E0F8"],
+
+    "HEADER_SECONDARY": ["#CCC1E2"],
+
+    "TEXT_NORMAL": ["#E8E0F8"],
+
+    "TEXT_MUTED": ["#CCC1E2"],
+
+    "INTERACTIVE_NORMAL ": ["#CEB1FA"],
+
+    "INTERACTIVE_HOVER": ["#D0C1E2"],
+
+    "INTERACTIVE_ACTIVE": ["#CFC1E2"],
+
+    "INTERACTIVE_MUTED": ["#9A8CAD"],
+
+    "CHANNELS_DEFAULT": ["#CAB1FA"],
+
+    "CHANNEL_ICON": ["#CFB1FA"],
+
+    "BACKGROUND_PRIMARY": ["#45365E"],
+
+    "BACKGROUND_SECONDARY": ["#362949"],
+
+    "BACKGROUND_SECONDARY_ALT": ["#281D3B"],
+
+    "BACKGROUND_TERTIARY": ["#160F22"],
+
+    "BACKGROUND_ACCENT": ["#7E52C5"],
+
+    "BACKGROUND_FLOATING": ["#332949"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#47365E"],
+
+    "BACKGROUND_MOBILE_SECONDARY": ["#342949"],
+
+    "BACKGROUND_MODIFIER_SELECTED": ["#18151F"],
+
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0E0C13"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#392949"],
+
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#CDC1E2"],
+
+    "SCROLLBAR_THIN_THUMB": ["#342949"],
+
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+
+    "SCROLLBAR_AUTO_THUMB": ["#332949"],
+
+    "SCROLLBAR_AUTO_TRACK": ["#342949"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#46365E"],
+
+    "CHAT_BACKGROUND": ["#45365E"]
+
+  },
+
+  "rawColors": {
+
+    "PRIMARY_100": "#CCC1E2",
+
+    "PRIMARY_200": "#CBC1E2",
+
+    "PRIMARY_300": "#E7E0F8",
+
+    "PRIMARY_400": "#CDC1E2",
+
+    "PRIMARY_600": "#47365E",
+
+    "PRIMARY_630": "#342949",
+
+    "PRIMARY_660": "#160F22",
+
+    "PRIMARY_700": "#46365E",
+
+    "PRIMARY_800": "#150F22",
+
+    "BRAND_260": "#7952C5",
+
+    "BRAND_360": "#7752C5",
+
+    "BRAND_500": "#7E52C5",
+
+    "BRAND_560": "#4E3278"
+
+  },
+
+  "spec": 2
+
+}
