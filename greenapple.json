@@ -1,53 +1,53 @@
 {
-    "name": "f",
-    "description": "Soothing pastel theme for the high-spirited!",
+    "name": "coNEXTion (Age of Light)",
+    "description": "it feels like a pool",
     "authors": [
       {
-        "name": "Catppuccin"
+        "name": "coNEXTion"
       }
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#f38ba8"
+      "#DDC656"
       ],
       "BACKGROUND_MENTIONED": [
-      "#313244"
+      "#032032"
       ],   
       "BACKGROUND_MENTIONED_HOVER": [   
-      "#6c7086"
+      "#F2A809"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT": [     
-      "#f7949414"
+      "#F2A809"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#9399b2"
+      "#065890"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#9399b2"
+      "#065890"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#1e1e2e"
+      "#032D45"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#181825"
+      "#032032"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#313244"
+      "#065890"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#181825"
+      "#032032"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#11111b"
+      "#032032"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#313244"
+      "#032D45"
       ],
       "BACKGROUND_PRIMARY": [
-      "#1e1e2e"
+      "#032D45"
       ],
       "BACKGROUND_SECONDARY": [
-      "#181825"
+      "#032D45"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#181825"
