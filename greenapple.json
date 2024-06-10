@@ -1,0 +1,111 @@
+{
+
+  "name": "Green Apple",
+
+  "description": "A theme based on symbol color of nature - Green, but to make it more sweet with apple!",
+
+  "authors": [
+
+    {
+
+      "name": "Cashew",
+
+      "id": "1095772586077597909"
+
+    }
+
+  ],
+
+  "semanticColors": {
+
+    "HEADER_PRIMARY": ["#E2F8DF"],
+
+    "HEADER_SECONDARY": ["#C9E2C1"],
+
+    "TEXT_NORMAL": ["#E4F8DF"],
+
+    "TEXT_MUTED": ["#C7E2C1"],
+
+    "INTERACTIVE_NORMAL ": ["#BEFAB1"],
+
+    "INTERACTIVE_HOVER": ["#C8E2C1"],
+
+    "INTERACTIVE_ACTIVE": ["#C8E2C1"],
+
+    "INTERACTIVE_MUTED": ["#93AD8C"],
+
+    "CHANNELS_DEFAULT": ["#BEFAB1"],
+
+    "CHANNEL_ICON": ["#BFFAB1"],
+
+    "BACKGROUND_PRIMARY": ["#3C5E36"],
+
+    "BACKGROUND_SECONDARY": ["#324929"],
+
+    "BACKGROUND_SECONDARY_ALT": ["#223B1D"],
+
+    "BACKGROUND_TERTIARY": ["#12220F"],
+
+    "BACKGROUND_ACCENT": ["#6AC552"],
+
+    "BACKGROUND_FLOATING": ["#2E4929"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#405E36"],
+
+    "BACKGROUND_MOBILE_SECONDARY": ["#2F4929"],
+
+    "BACKGROUND_MODIFIER_SELECTED": ["#161F15"],
+
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0D130C"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#2A4929"],
+
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#C3E2C1"],
+
+    "SCROLLBAR_THIN_THUMB": ["#2B4929"],
+
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+
+    "SCROLLBAR_AUTO_THUMB": ["#2B4929"],
+
+    "SCROLLBAR_AUTO_TRACK": ["#294929"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#375E36"],
+
+    "CHAT_BACKGROUND": ["#375E36"]
+
+},
+
+  "rawColors": {
+
+    "PRIMARY_100": "#C2E2C1",
+
+    "PRIMARY_200": "#C1E2C2",
+
+    "PRIMARY_300": "#DFF8E0",
+
+    "PRIMARY_400": "#C1E2C2",
+
+    "PRIMARY_600": "#365E37",
+
+    "PRIMARY_630": "#29492B",
+
+    "PRIMARY_660": "#0F220F",
+
+    "PRIMARY_700": "#365E38",
+
+    "PRIMARY_800": "#0F2210",
+
+    "BRAND_260": "#52C563",
+
+    "BRAND_360": "#52C55D",
+
+    "BRAND_500": "#52C561",
+
+    "BRAND_560": "#327834"
+
+  },
+
+  "spec": 2
+
+}
